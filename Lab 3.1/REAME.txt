@@ -44,9 +44,7 @@ SECCIONES DE LA PÁGINA
 
 ENLACE DEL REPOSITORIO DE GITHUB
 ---------------------------------
-[Pega aquí el enlace de tu repositorio, ejemplo:
-https://github.com/medinalab3/lab-3.1-web-basico]
-
+https://github.com/medinalab3/lab-3-1-html-css
 CÓMO VISUALIZAR EL PROYECTO
 -----------------------------
 1. Abrir la carpeta del proyecto en Visual Studio Code.
